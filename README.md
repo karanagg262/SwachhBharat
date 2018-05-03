@@ -12,3 +12,4 @@ Data is distributed and collected in following types.
 
 A url is also made to track all the stats with a POST request of 5 mins.
 
+Next Steps: To apply Data Science concepts to analysis the data and get some useful outputs from them.
